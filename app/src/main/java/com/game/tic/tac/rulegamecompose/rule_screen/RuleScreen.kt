@@ -70,7 +70,6 @@ fun RuleScreen() {
         },
         label = ""
     )
-
     Column(
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.SpaceBetween,
